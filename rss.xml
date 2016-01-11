@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[knic]]></title>
+        <description><![CDATA[knic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jan 2016 21:57:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Am I out of a job?]]></title>
+            <description><![CDATA[<article><h1>Am I out of a job?</h1><p>Maybe?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/89d1757f-9355-48c6-98a0-64b328b985ea.jpg"></article>]]></description>
+            <link>undefinedam-i-out-of-a-job/index.html</link>
+            <guid isPermaLink="false">2995fa74-8335-4ffa-8ad2-058cdaa18bd9</guid>
+            <pubDate>Mon, 11 Jan 2016 21:57:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
